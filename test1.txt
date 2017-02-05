@@ -1,6 +1,8 @@
 Name: Micah Pengilly
 Date: January 27th, 2017
 
+Added another line
+
 This is my first text document for MART 340 - Web Development.
 
 
@@ -8,8 +10,4 @@ I added a new line to this file in my text editor
 
 I changed this line
 
-Edited this line
-
-Added this line
-
-I added this line
+New edit
