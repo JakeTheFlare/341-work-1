@@ -3,4 +3,11 @@ Date: January 27th, 2017
 
 This is my first text document for MART 340 - Web Development.
 
-I added a new line to this file in my text editor!!!!
+This is a new line
+
+
+I added a new line to this file in my text editor
+
+I added another new line
+
+Another new line
