@@ -14,6 +14,9 @@ This week I created a new page that contained a recipe.  Within this page I crea
 ### Wayback Machine Screenshots
 
  [Original Stanford Site](images/Screen Shot 2017-02-27 at 5.25.16 PM.png)
+
  [Modern Stanford Site](images/Screen Shot 2017-02-27 at 5.26.07 PM.png)
+
  [Original Atlantic Site](images/Screen Shot 2017-02-27 at 5.27.50 PM.png)
+ 
  [Modern Atlantic Site](images/Screen Shot 2017-02-27 at 5.21.00 PM.png)
