@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+h1 {
+  color: black;
+  font-size: 50px;
+  font-family: font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+h3 {
+  color: black;
+  font-size: 35px;
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+}
+p {
+  color: black;
+  font-size: 16px;
+  font-family: font-family: 'Raleway', sans-serif;
+  font-style: normal;
+}
+
+#main-story-title {
+  background-color: #A9A9A9;
+  border-style: solid;
+  border-color: #4A708B;
+}
+
+#hover-element:hover {
+  background-color: ##4b4b4b;
+  border-style: solid;
+  border-color: #4b4b4b;
+}
+
+#text-body1 {
+  background-color: #ADD8E6;
+  border-style: solid;
+  border-color: #4A708B
+}
+
+#text-body1 ::first-letter {
+  font-size: 20px;
+}
