@@ -38,7 +38,7 @@ p {
   text-align: justify;
 }
 
-#text-body1 ::first-letter {
+#p1 ::first-letter {
   font-size: 22px;
   font-weight: bold;
 }
