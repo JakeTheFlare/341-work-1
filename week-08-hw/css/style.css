@@ -24,20 +24,21 @@ p {
   background-color: #A9A9A9;
   border-style: solid;
   border-color: #4A708B;
+  text-align: center;
 }
 
 #hover-element:hover {
   background-color: ##4b4b4b;
-  border-style: solid;
-  border-color: #4b4b4b;
 }
 
 #text-body1 {
   background-color: #ADD8E6;
   border-style: solid;
-  border-color: #4A708B
+  border-color: #4A708B;
+  text-align: justify;
 }
 
 #text-body1 ::first-letter {
-  font-size: 20px;
+  font-size: 22px;
+  font-weight: bold;
 }
