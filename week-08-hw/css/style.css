@@ -38,7 +38,7 @@ p {
   text-align: justify;
 }
 
-#p1 ::first-letter {
+p.one::first-letter {
   font-size: 22px;
   font-weight: bold;
 }
