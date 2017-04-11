@@ -3,6 +3,14 @@
   text-transform: capitalize;
 }
 
+.heading-container {
+  width: 80%;
+  height: 30%;
+  min-width: 200px;
+  min-height: 50px;
+   
+}
+
 header {
     background-color: #26272b;
     font-family: sans-serif;
