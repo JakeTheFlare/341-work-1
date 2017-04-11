@@ -4,6 +4,7 @@
 }
 
 .heading-container {
+  align-items: center;
   width: 80%;
   height: 30%;
   min-width: 200px;
