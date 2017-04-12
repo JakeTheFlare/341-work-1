@@ -7,6 +7,7 @@ h1 {
 }
 
 .heading-container {
+  display: inline-block;
   align-items: center;
   border-style: solid;
   border-color: #a2a2a2;
@@ -43,6 +44,10 @@ header {
 
 .menu-item:hover {
     background-color: #000080;
+}
+
+#ptft {
+  padding-left: 1em;
 }
 
 .dropdown {
@@ -83,4 +88,18 @@ header {
 
 .paragraph-text {
   text-align: center;
+}
+
+.side-head {
+  border-style: solid;
+  border-color: #a2a2a2;
+  padding: 0;
+  margin: 0;
+}
+
+.side-body {
+  border-style: solid;
+  border-color: #a2a2a2;
+  padding: .5em;
+  margin: .5em;
 }
