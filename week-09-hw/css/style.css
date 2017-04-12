@@ -7,7 +7,7 @@
   align-items: center;
   border-style: solid;
   border-color: #a2a2a2;
-  padding: .5em;
+  padding: 0em;
 }
 
 header {
@@ -16,7 +16,13 @@ header {
     font-size: 16pt;
     text-transform: uppercase;
     margin: 0;
+    padding: 0;
     height: 2.15em;
+}
+
+.menu-container {
+  padding: 0;
+  margin: 0;
 }
 
 .menu-item {
