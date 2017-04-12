@@ -104,6 +104,8 @@ header {
 .side-body {
   border-style: solid;
   border-color: #a2a2a2;
-  padding: .5em;
-  margin: .5em;
+  padding-left: .5em;
+  padding-top: 0;
+  padding-right: .5em;
+  padding-bottom: .5em;
 }
