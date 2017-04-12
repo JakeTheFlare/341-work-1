@@ -1,5 +1,6 @@
 .page-heading {
   text-align: center;
+  float: right;
 }
 
 h1 {
@@ -15,6 +16,10 @@ h1 {
 }
 
 .image {
+  float: left;
+}
+
+img {
   float: left;
 }
 
@@ -108,4 +113,5 @@ header {
   padding-top: 0;
   padding-right: .5em;
   padding-bottom: .5em;
+  float: right;
 }
