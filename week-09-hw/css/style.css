@@ -26,7 +26,6 @@ header {
 
 .menu-item {
     display: inline-block;
-    margin: 5%;
     min-width: 8em;
     text-align: center;
     background-color: #26272b;
