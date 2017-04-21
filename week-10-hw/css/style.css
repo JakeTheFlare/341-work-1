@@ -1,0 +1,55 @@
+img, embed, object, video {
+  max-width: 100%;
+}
+
+button, a {
+  min-width: 48px;
+  min-height: 48px;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-item {
+  width: 100%;
+  text-align: center;
+}
+
+.black {
+  background-color: #000000;
+  width: 100%;
+}
+
+h1 {
+  color: #4169e1;
+}
+
+.blue {
+  background-color: #4169e1;
+}
+
+.white {
+  background-color: #ffffff;
+}
+
+.light-blue {
+  background-color: #aec6cf;
+}
+
+.grey {
+  background-color: #D3D3D3;
+}
+
+@media (max-width: 600px) {
+  .blue, .white {
+    width: 50%
+  }
+}
+
+@media (max-width: 750px) {
+  .light-blue, .grey {
+    width: 50%
+  }
+}
